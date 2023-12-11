@@ -52,10 +52,10 @@ To get a local copy up and running follow these simple steps.
 List of Commands:     
 The number in the first line (x) is the max number of customers in the wash queue       
 The number on the second line (y) is the number of days the car wash will work      
-      This is followed by y input days        
+-      This is followed by y input days        
 The 3 numbers on the third line are the cost of a wash, wax and a vacuum in that particular day      
 The number on the forth line (n) is the number of clients expected in that day followed by that number of clients        
-      This is followed by n lines of input representing the customers along with their arrival time and other details      
+-      This is followed by n lines of input representing the customers along with their arrival time and other details      
 
 ## Modules
 
