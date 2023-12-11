@@ -50,6 +50,7 @@ To get a local copy up and running follow these simple steps.
 ### Running
 
 List of Commands:     
+
 The number in the first line (x) is the max number of customers in the wash queue       
 The number on the second line (y) is the number of days the car wash will work      
 -----This is followed by y input days        
