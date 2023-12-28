@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Download the src folder
 2. Run the program.
-3. (Optional) - run the sample file found on the Github project page
+3. (Optional) - run the sample tests 
 
 ### Running
 
@@ -56,8 +56,6 @@ List of Commands:
 - The 3 numbers on the third line are the cost of a wash, wax and a vacuum in that particular day      
 - The number on the forth line (n) is the number of clients expected in that day followed by that number of clients        
     - This is followed by n lines of input representing the customers along with their arrival time and other details      
-
-## Modules
 
 ## Evaluation
 
